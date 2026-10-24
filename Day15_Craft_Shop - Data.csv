@@ -1,0 +1,19 @@
+OrderID,Month,City,Product,Quantity,UnitPrice,total
+1,Jul,Lahore,Embroidered Shawl,1,3500,3500
+2,Jul,Multan,Blue Pottery Vase,1,3400,3400
+3,Jul,Karachi,Handmade Bag,2,1900,3800
+4,Jul,Islamabad,Khussa,2,3400,6800
+5,Jul,Lahore,Handmade Bag,3,4400,13200
+6,Aug,Multan,Embroidered Shawl,3,4500,13500
+7,Aug,Lahore,Blue Pottery Vase,4,3200,12800
+8,Aug,Karachi,Embroidered Shawl,6,4300,25800
+9,Aug,Multan,Khussa,5,4300,21500
+10,Aug,Islamabad,Handmade Bag,2,2300,4600
+11,Aug,Lahore,Khussa,1,1200,1200
+12,Sep,Karachi,Blue Pottery Vase,3,2300,6900
+13,Sep,Multan,Embroidered Shawl,1,1200,1200
+14,Sep,Lahore,Handmade Bag,2,2500,5000
+15,Sep,Karachi,Khussa,3,4500,13500
+16,Sep,Islamabad,Embroidered Shawl,2,3400,6800
+17,Sep,Multan,Handmade Bag,1,1500,1500
+18,Sep,Lahore,Blue Pottery Vase,4,4900,19600
